@@ -1,7 +1,6 @@
-## About :
--  👋 Hi, I’m @YoumnaYazji and I'm a Software Engineer | Frontend Web Developer.
-
-- 
+## Hey 👋 What's up? :
+I’m @YoumnaYazji and I'm a Software Engineer | Frontend Web Developer.
+ 
 ## Contact :
 
  You can find me on:
