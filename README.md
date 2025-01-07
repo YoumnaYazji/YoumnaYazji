@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @YoumnaYazji and I'm a Software Engineer | Frontend Web Developer.
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## About :
+-  👋 Hi, I’m @YoumnaYazji and I'm a Software Engineer | Frontend Web Developer.
 
-<!---
-YoumnaYazji/YoumnaYazji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 
+## Contact :
+
+ You can find me on:
+
+-   `LinkedIn`: https://sy.linkedin.com/in/youmna-yazji-9a654619a
+-   `Instagram`: https://www.instagram.com/youmnayazji/profilecard/?igsh=MXhoZ2wxeTNvaGRjdQ==
+-   `Portfolio`: https://youmna-yazji-portfolio.vercel.app/
+-   `Github`: https://github.com/YoumnaYazji
