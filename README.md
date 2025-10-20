@@ -1,5 +1,5 @@
 # Hey 👋 :
-I’m YoumnaYazji and I'm a Software Engineer | Frontend Web Developer.
+I’m Youmna Yazji and I'm a Software Engineer | Frontend Web Developer.
 ## i Code with  👩‍💻 :
 
 ###
